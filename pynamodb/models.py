@@ -5,7 +5,8 @@ class UserModel (Model):
     
     class Meta:
         table_name = "dynamodb-user"
-    host = "http://localhost:8003"
+        host = "http://localhost:8003"
+        region = 'us-west-2'
     email = UnicodeAttribute(hash_key=True)
     first_name = UnicodeAttribute()
     last_name = UnicodeAttribute()
