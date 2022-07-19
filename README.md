@@ -25,7 +25,7 @@ no curso de Bacharelado em Sistemas da Informação, pela Universidade Federal d
 ## Dependência
 
 * ![Python](https://img.shields.io/badge/Python-3e7aaa?style=for-the-badge&logo=python&logoColor=white)
-* ![Docker](https://img.shields.io/badge/Docker-3e7aaa?style=for-the-badge&logo=docker&logoColor=white)
+* ![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
 
 
 ## Instalação
